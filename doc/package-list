@@ -1,0 +1,4 @@
+com.game.actions
+com.game.mybatis.bean
+com.game.mybatis.daobean
+com.game.mybatis.springdao
